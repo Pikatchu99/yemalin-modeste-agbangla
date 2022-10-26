@@ -56,7 +56,7 @@
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-***Open-source Workflow management ![](https://user-images.githubusercontent.com/72025145/197919197-52ff6033-0bd2-4cbf-945a-26bb50788114.png)***
+***Open-source Workflow management ![](https://user-images.githubusercontent.com/72025145/197919197-52ff6033-0bd2-4cbf-945a-26bb50788114.png =100x20)***
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
