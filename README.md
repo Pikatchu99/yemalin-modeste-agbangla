@@ -56,13 +56,13 @@
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-***Open-source Workflow management***
+***Open-source Workflow management ![](https://user-images.githubusercontent.com/72025145/197919197-52ff6033-0bd2-4cbf-945a-26bb50788114.png)***
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 
 <hr />
 
-***Social Medias***
+***Social Medias 💬***
 
 <a href="https://www.linkedin.com/in/y%C3%A9malin-modeste-agbangla-a14b67206/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
