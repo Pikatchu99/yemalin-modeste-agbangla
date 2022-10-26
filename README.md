@@ -66,4 +66,3 @@
 ***Social Medias***
 
 <a href="https://www.linkedin.com/in/y%C3%A9malin-modeste-agbangla-a14b67206/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-[LinkedIn](https://www.linkedin.com/in/y%C3%A9malin-modeste-agbangla-a14b67206/)
