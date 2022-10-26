@@ -1,17 +1,17 @@
 #  Hi everyOne 👋🏿 ![Profile view](https://komarev.com/ghpvc/?username=Pikatchu99&style=flat-square)
 
 
-🔭 I'm currently a third year student of computer science and a freelancer;
+🔭 _I'm currently a third year student of computer science and a freelancer;_
 
-👨🏿‍💻 I do my best to become a great backend dev;  
+👨🏿‍💻 _I do my best to become a great backend dev;_
 
-🕺🏿 I would like to discuss new projects that I can work on;  
+🕺🏿 _I would like to discuss new projects that I can work on;_
 
-💬 Ask me questions about anything related to programming, nature, nature sports and computer science;  
+💬 _Ask me questions about anything related to programming, nature, nature sports and computer science;_
 
-📧 You wish to contact me: _***yemalin.agbangla@epitech.eu***_;
+📧 _You wish to contact me: _***yemalin.agbangla@epitech.eu***_;_
 
-⚡ Fun fact: I am still looking for⏳;
+⚡ _Fun fact: I am still looking for⏳;_
 
 ***It's free to contact me***
 
@@ -64,6 +64,5 @@
 <hr />
 
 ***Social Medias***
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![LinkedIn](https://www.linkedin.com/in/y%C3%A9malin-modeste-agbangla-a14b67206/)
