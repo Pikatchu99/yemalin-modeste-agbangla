@@ -55,20 +55,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 
+<hr />
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikatchu99&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-::: {.columns}
-::: {.column width="40%"}
-
-contents...
-
-:::
-::: {.column width="60%"}
-
-contents...
-
-:::
-:::
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pikatchu99&theme=neon-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
