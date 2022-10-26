@@ -1,4 +1,6 @@
 #  Hi everyOne 👋🏿
+![Profile view](https://komarev.com/ghpvc/?username=Pikatchu99&style=flat-square)
+
 
 🔭 I'm currently a third year student of computer science and a freelancer;  
 👨🏿‍💻 I do my best to become a great backend dev;
