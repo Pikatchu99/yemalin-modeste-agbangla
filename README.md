@@ -59,3 +59,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikatchu99&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+::: {.columns}
+::: {.column width="40%"}
+
+contents...
+
+:::
+::: {.column width="60%"}
+
+contents...
+
+:::
+:::
