@@ -4,9 +4,9 @@
 ![](https://user-images.githubusercontent.com/72025145/197925091-d062422b-9904-43e9-8645-eb2a245c2def.gif)
 
 
-🔭 _I'm currently a third year student of computer science and a freelancer;_
+🔭 _I am currently a full stack web developer looking for new opportunities;_
 
-👨🏿‍💻 _I do my best to become a great backend dev;_
+👨🏿‍💻 _I do my best to become a great full stack web dev;_
 
 🕺🏿 _I would like to discuss new projects that I can work on;_
 
